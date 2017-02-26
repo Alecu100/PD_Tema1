@@ -1,1 +1,8 @@
-﻿
+﻿PD_Tema1.obj : error LNK2019: unresolved external symbol MPI_Bcast referenced in function main
+PD_Tema1.obj : error LNK2019: unresolved external symbol MPI_Reduce referenced in function main
+PD_Tema1.obj : error LNK2019: unresolved external symbol MPI_Comm_size referenced in function main
+PD_Tema1.obj : error LNK2019: unresolved external symbol MPI_Comm_rank referenced in function main
+PD_Tema1.obj : error LNK2019: unresolved external symbol MPI_Init referenced in function main
+PD_Tema1.obj : error LNK2019: unresolved external symbol MPI_Finalize referenced in function main
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\\msmpi.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+E:\stuff\teme\PD_Tema1\PD_Tema1\x64\Debug\PD_Tema1.exe : fatal error LNK1120: 6 unresolved externals
