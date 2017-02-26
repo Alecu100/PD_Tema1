@@ -18,6 +18,16 @@ int get_root_instance_id()
 	return 0;
 }
 
+int get_partial_pi_tag()
+{
+	return 666;
+}
+
+int get_num_sums_tag()
+{
+	return 667;
+}
+
 int main(int argc, char* argv[])
 {
 	int nr_sums, instance_id, nr_procs;
@@ -42,7 +52,7 @@ int main(int argc, char* argv[])
 					1,
 					MPI_INT,
 					i,
-					get_root_instance_id(),
+					get_num_sums_tag(),
 					MPI_COMM_WORLD);
 			}
 		}
@@ -53,7 +63,7 @@ int main(int argc, char* argv[])
 				1,
 				MPI_INT,
 				get_root_instance_id(),
-				instance_id,
+				get_num_sums_tag(),
 				MPI_COMM_WORLD,
 				&status);
 		}
@@ -85,7 +95,7 @@ int main(int argc, char* argv[])
 					1,
 					MPI_DOUBLE,
 					i,
-					get_root_instance_id(),
+					get_partial_pi_tag(),
 					MPI_COMM_WORLD, &status);
 
 				full_pi += pi_buffer;
@@ -100,7 +110,7 @@ int main(int argc, char* argv[])
 				1,
 				MPI_DOUBLE,
 				get_root_instance_id(),
-				instance_id,
+				get_partial_pi_tag(),
 				MPI_COMM_WORLD);
 		}
 	}
