@@ -101,6 +101,7 @@ int main(int argc, char* argv[])
 				full_pi += pi_buffer;
 			}
 
+			cout.precision(17);
 			cout << endl << "Pi is " << full_pi << endl;
 		}
 		else

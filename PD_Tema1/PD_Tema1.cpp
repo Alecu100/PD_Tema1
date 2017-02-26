@@ -57,6 +57,7 @@ int main(int argc, char* argv[])
 
 		if (is_root_instance(instance_id))
 		{
+			cout.precision(17);
 			cout << endl << "Pi is " << full_pi << endl;
 		}
 	}
