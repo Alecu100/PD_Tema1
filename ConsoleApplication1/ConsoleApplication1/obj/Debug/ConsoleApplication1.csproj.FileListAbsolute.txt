@@ -1,0 +1,8 @@
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPI.dll
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPIUtils.dll
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPI.xml
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,11 @@
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\Master.exe.config
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\Master.exe
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\Master.pdb
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\obj\Debug\Master.exe
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\obj\Debug\Master.pdb
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\ConsoleApplication1.exe
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\MPI.dll
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\MPIUtils.dll
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\ConsoleApplication1.pdb
+E:\FII\miss2\sem2\pcd\mpi\ConsoleApplication1\Master\bin\Debug\MPI.xml
